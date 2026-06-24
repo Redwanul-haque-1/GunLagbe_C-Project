@@ -1,0 +1,84 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace project001
+{
+    public partial class Form19 : Form
+    {
+        public Form19()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form15 form = new Form15();
+            this.Hide();
+            form.ShowDialog();
+            this.Close();
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+
+                Form22 form = new Form22(1399);
+                this.Hide();
+                form.ShowDialog();
+                this.Close();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form22 form = new Form22(999);
+            this.Hide();
+            form.ShowDialog();
+            this.Close();
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Form22 form = new Form22(3999);
+            this.Hide();
+            form.ShowDialog();
+            this.Close();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form22 form = new Form22(2999);
+            this.Hide();
+            form.ShowDialog();
+            this.Close();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form22 form = new Form22(1999);
+            this.Hide();
+            form.ShowDialog();
+            this.Close();
+        }
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form22 form = new Form22(2999);
+            this.Hide();
+            form.ShowDialog();
+            this.Close();
+        }
+
+        private void button6_Click_1(object sender, EventArgs e)
+        {
+            Form22 form = new Form22(2999);
+            this.Hide();
+            form.ShowDialog();
+            this.Close();
+        }
+    }
+}
