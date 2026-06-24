@@ -1,0 +1,348 @@
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\bin\Debug\project001.exe.config
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\bin\Debug\project001.exe
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\bin\Debug\project001.pdb
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.csproj.AssemblyReference.cache
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form1.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Properties.Resources.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.csproj.GenerateResource.cache
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.csproj.CoreCompileInputs.cache
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.exe
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.pdb
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form2.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form3.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form4.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form5.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form6.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form7.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form8.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form9.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form10.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form11.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form12.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form13.resources
+C:\Desktop\5th semester\Final-term\OOP2 Lab\Project\project001\obj\Debug\project001.Form14.resources
+C:\Users\MY LAPTOP\Desktop\project001\bin\Debug\project001.exe.config
+C:\Users\MY LAPTOP\Desktop\project001\bin\Debug\project001.exe
+C:\Users\MY LAPTOP\Desktop\project001\bin\Debug\project001.pdb
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.csproj.AssemblyReference.cache
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form1.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form10.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form11.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form12.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form13.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form14.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form2.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form3.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form4.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form5.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form6.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form7.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form8.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Form9.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.Properties.Resources.resources
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.csproj.GenerateResource.cache
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.csproj.CoreCompileInputs.cache
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.exe
+C:\Users\MY LAPTOP\Desktop\project001\obj\Debug\project001.pdb
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe.config
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.pdb
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.AssemblyReference.cache
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form1.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form10.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form11.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form12.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form13.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form14.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form2.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form3.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form4.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form5.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form6.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form7.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form8.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form9.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Properties.Resources.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.GenerateResource.cache
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.CoreCompileInputs.cache
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.exe
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.pdb
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe.config
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.pdb
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.AssemblyReference.cache
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form1.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form10.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form11.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form12.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form13.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form14.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form2.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form3.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form4.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form5.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form6.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form7.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form8.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form9.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Properties.Resources.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.GenerateResource.cache
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.CoreCompileInputs.cache
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.exe
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.pdb
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe.config
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.pdb
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form1.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form10.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form11.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form12.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form13.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form14.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form2.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form3.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form4.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form5.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form6.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form7.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form8.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form9.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Properties.Resources.resources
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.exe
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.pdb
+C:\Users\HP\Desktop\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form15.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.AssemblyReference.cache
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.exe
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.pdb
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe.config
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.pdb
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form1.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form10.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form11.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form12.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form13.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form14.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form15.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form2.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form3.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form4.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form5.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form6.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form7.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form8.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form9.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Properties.Resources.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.GenerateResource.cache
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.CoreCompileInputs.cache
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form16.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form17.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form18.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form19.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form20.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form21.resources
+C:\Users\redwa\OneDrive\Desktop\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form22.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe.config
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.pdb
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form1.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form10.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form11.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form12.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form13.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form14.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form15.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form16.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form17.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form18.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form19.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form2.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form20.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form21.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form22.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form23.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form3.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form4.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form5.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form6.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form7.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form8.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form9.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Properties.Resources.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.exe
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.pdb
+C:\Users\HP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form24.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe.config
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.pdb
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.AssemblyReference.cache
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form1.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form10.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form11.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form12.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form13.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form14.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form15.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form16.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form17.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form18.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form19.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form2.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form20.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form21.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form22.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form23.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form24.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form3.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form4.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form5.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form6.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form7.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form8.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form9.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Properties.Resources.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.GenerateResource.cache
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.CoreCompileInputs.cache
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.exe
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.pdb
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe.config
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.pdb
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form1.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form10.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form11.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form12.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form13.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form14.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form15.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form16.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form17.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form18.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form19.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form2.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form20.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form21.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form22.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form23.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form24.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form3.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form4.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form5.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form6.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form7.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form8.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form9.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Properties.Resources.resources
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.exe
+C:\Users\HP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.pdb
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe.config
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.pdb
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.AssemblyReference.cache
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form1.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form10.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form11.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form12.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form13.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form14.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form15.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form16.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form17.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form18.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form19.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form2.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form20.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form21.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form22.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form23.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form24.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form3.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form4.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form5.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form6.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form7.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form8.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form9.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Properties.Resources.resources
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.GenerateResource.cache
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.CoreCompileInputs.cache
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.exe
+C:\Users\MY LAPTOP\Desktop\Gun Lagbe6900 3\Gun Lagbe6900 (2)\Gun Lagbe6900\Gun Lagbe69\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.pdb
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe.config
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.pdb
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.AssemblyReference.cache
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form1.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form10.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form11.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form12.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form13.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form14.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form15.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form16.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form17.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form18.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form19.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form2.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form20.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form21.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form22.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form23.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form24.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form3.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form4.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form5.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form6.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form7.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form8.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form9.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Properties.Resources.resources
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.GenerateResource.cache
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.CoreCompileInputs.cache
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.exe
+C:\Users\MY LAPTOP\Desktop\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.pdb
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe.config
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.exe
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\bin\Debug\project001.pdb
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.AssemblyReference.cache
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form1.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form10.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form11.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form12.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form13.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form14.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form15.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form16.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form17.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form18.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form19.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form2.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form20.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form21.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form22.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form23.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form24.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form3.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form4.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form5.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form6.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form7.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form8.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Form9.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.Properties.Resources.resources
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.GenerateResource.cache
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.CoreCompileInputs.cache
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.exe
+C:\Users\redwa\OneDrive\Desktop\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.pdb
+D:\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.csproj.AssemblyReference.cache
+D:\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.exe
+D:\GUN 4 PEACE\Final\Gun Lagbe69\Gun Lagbe\obj\Debug\project001.pdb
